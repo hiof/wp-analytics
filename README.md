@@ -2,7 +2,7 @@
 
 ## About
 
-This is functionality to add a Høgskolen i Østfold brandbar-bar at the end of the DOM (and visually at the top of the page).
+This is functionality to add Google analytics code to a blog.
 
 
 ## Copyright
