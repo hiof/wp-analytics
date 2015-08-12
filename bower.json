@@ -1,0 +1,12 @@
+{
+  "name": "hiof-wp-analytics",
+  "version": "1.0.1",
+  "homepage": "https://github.com/hiof/wp-analytics",
+  "authors": [
+    "Kenneth Dahlstrøm <kenneth.dahlstrom@hiof.no>"
+  ],
+  "description": "Hiof-brandbar-wp package",
+  "license": "GNU",
+  "dependencies": {
+  }
+}
